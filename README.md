@@ -8,47 +8,47 @@ Based on the requirements of the client, all the languages and the order of acti
 ## juicebar-desktop-app - Systerm Over View Digram
 
 
-<img width="500" alt="diagram" src="/resources/9.jpg">
+<img width="500" alt="diagram" src="/resources/9.png">
 
 
 
 ## juicebar-desktop-app - Software Digrams
 
 
-<img width="500" alt="diagram" src="/resources/1.jpg">
-<img width="500" alt="diagram" src="/resources/2.jpg">
-<img width="500" alt="diagram" src="/resources/3.jpg">
-<img width="500" alt="diagram" src="/resources/4.jpg">
-<img width="500" alt="diagram" src="/resources/5.jpg">
-<img width="500" alt="diagram" src="/resources/6.jpg">
-<img width="500" alt="diagram" src="/resources/7.jpg">
-<img width="500" alt="diagram" src="/resources/8.jpg">
+<img width="500" alt="diagram" src="/resources/1.png">
+<img width="500" alt="diagram" src="/resources/2.png">
+<img width="500" alt="diagram" src="/resources/3.png">
+<img width="500" alt="diagram" src="/resources/4.png">
+<img width="500" alt="diagram" src="/resources/5.png">
+<img width="500" alt="diagram" src="/resources/6.png">
+<img width="500" alt="diagram" src="/resources/7.png">
+<img width="500" alt="diagram" src="/resources/8.png">
 
 
 
 ## juicebar-desktop-app - Screen Shots
 
 
-<img width="500" alt="diagram" src="/resources/10.jpg">
-<img width="500" alt="diagram" src="/resources/11.jpg">
-<img width="500" alt="diagram" src="/resources/12.jpg">
-<img width="500" alt="diagram" src="/resources/13.jpg">
-<img width="500" alt="diagram" src="/resources/14.jpg">
-<img width="500" alt="diagram" src="/resources/15.jpg">
-<img width="500" alt="diagram" src="/resources/16.jpg">
-<img width="500" alt="diagram" src="/resources/17.jpg">
-<img width="500" alt="diagram" src="/resources/18.jpg">
-<img width="500" alt="diagram" src="/resources/19.jpg">
-<img width="500" alt="diagram" src="/resources/20.jpg">
-<img width="500" alt="diagram" src="/resources/21.jpg">
-<img width="500" alt="diagram" src="/resources/22.jpg">
-<img width="500" alt="diagram" src="/resources/23.jpg">
-<img width="500" alt="diagram" src="/resources/24.jpg">
-<img width="500" alt="diagram" src="/resources/25.jpg">
-<img width="500" alt="diagram" src="/resources/26.jpg">
-<img width="500" alt="diagram" src="/resources/27.jpg">
-<img width="500" alt="diagram" src="/resources/28.jpg">
-<img width="500" alt="diagram" src="/resources/29.jpg">
-<img width="500" alt="diagram" src="/resources/30.jpg">
-<img width="500" alt="diagram" src="/resources/31.jpg">
-<img width="500" alt="diagram" src="/resources/32.jpg">
+<img width="500" alt="diagram" src="/resources/10.png">
+<img width="500" alt="diagram" src="/resources/11.png">
+<img width="500" alt="diagram" src="/resources/12.png">
+<img width="500" alt="diagram" src="/resources/13.png">
+<img width="500" alt="diagram" src="/resources/14.png">
+<img width="500" alt="diagram" src="/resources/15.png">
+<img width="500" alt="diagram" src="/resources/16.png">
+<img width="500" alt="diagram" src="/resources/17.png">
+<img width="500" alt="diagram" src="/resources/18.png">
+<img width="500" alt="diagram" src="/resources/19.png">
+<img width="500" alt="diagram" src="/resources/20.png">
+<img width="500" alt="diagram" src="/resources/21.png">
+<img width="500" alt="diagram" src="/resources/22.png">
+<img width="500" alt="diagram" src="/resources/23.png">
+<img width="500" alt="diagram" src="/resources/24.png">
+<img width="500" alt="diagram" src="/resources/25.png">
+<img width="500" alt="diagram" src="/resources/26.png">
+<img width="500" alt="diagram" src="/resources/27.png">
+<img width="500" alt="diagram" src="/resources/28.png">
+<img width="500" alt="diagram" src="/resources/29.png">
+<img width="500" alt="diagram" src="/resources/30.png">
+<img width="500" alt="diagram" src="/resources/31.png">
+<img width="500" alt="diagram" src="/resources/32.png">
