@@ -1,0 +1,7 @@
+All we done our project in Jvaa Swing.But order managemnt part done by his in Java AFX.So when integrate it gives errors so submit his part separatly.
+
+Order Management Section - 
+
+// Link for his part
+
+https://drive.google.com/open?id=1kFuJp8xzal8sn4MUEr9UMnjWcPbjrIrg
